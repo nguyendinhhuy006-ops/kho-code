@@ -1,0 +1,16 @@
+**/node_modules/
+**/dist/
+**/.data/
+**/.npm-cache/
+**/artifacts/
+**/*.tsbuildinfo
+**/.env
+**/.env.*
+!**/.env.example
+**/*.sqlite
+**/*.sqlite-wal
+**/*.sqlite-shm
+**/*.mdf
+**/*.ldf
+**/*.bak
+**/*.log
